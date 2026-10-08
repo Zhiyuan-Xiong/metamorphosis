@@ -1,0 +1,86 @@
+{
+  "slug": "metamorphosis",
+  "title": {
+    "zh": "蜕变",
+    "en": "Metamorphosis"
+  },
+  "subtitle": {
+    "zh": "TouchDesigner 实时声音可视化交互",
+    "en": "Real-time audio visualisation with TouchDesigner"
+  },
+  "description": {
+    "zh": "通过 TouchDesigner 将蝴蝶几何、粒子反馈与实时声音分析连接，生成持续蜕变的视听形态。",
+    "en": "TouchDesigner connects butterfly geometry, particle feedback, and live audio analysis to create an evolving audiovisual form."
+  },
+  "categories": [
+    "installation",
+    "3d",
+    "video"
+  ],
+  "status": "published",
+  "kind": {
+    "zh": "创意编程／实时视听交互",
+    "en": "Creative coding / Real-time audiovisual interaction"
+  },
+  "year": "2025–26",
+  "cover": "metamorphosis-cover",
+  "background": "metamorphosis-cover",
+  "featured": true,
+  "coverAlt": {
+    "zh": "液态背景中的青蓝色蝴蝶骨骸模型，白色粒子围绕形态扩散。",
+    "en": "A cyan skeletal butterfly against a liquid background, surrounded by dispersing white particles."
+  },
+  "role": {
+    "zh": "模型处理、节点编程、声音映射与视觉合成",
+    "en": "Geometry processing, node programming, audio mappings, and visual compositing"
+  },
+  "stage": {
+    "zh": "几何建模、粒子生成、声音响应与实时输出",
+    "en": "Geometry, particle generation, audio response, and live output"
+  },
+  "deliverables": {
+    "zh": "完整节点分析、五阶段演进、实时视听影像与声音交互",
+    "en": "Operator analysis, five-stage development, live audiovisual film, and audio interaction"
+  },
+  "overview": {
+    "zh": "以蝴蝶形骨骸模型为视觉核心，将三维几何重构为不断生成、扰动与回流的粒子。声音经分析、放大和平滑后，驱动粒子湍动与模型缩放；液态背景、反馈与辉光共同建立有机的视听关系，让形态随声音强弱不断蜕变。",
+    "en": "A butterfly-shaped skeletal model becomes a continuously generated, disturbed, and returning particle field. Analysed, amplified, and smoothed audio drives turbulence and model scale. A liquid background, feedback, and bloom establish an organic audiovisual relationship in which form changes with sound intensity."
+  },
+  "sections": [
+    {
+      "id": "concept",
+      "title": {
+        "zh": "声音与形态的蜕变",
+        "en": "Sound and transformation"
+      }
+    },
+    {
+      "id": "operator-network",
+      "title": {
+        "zh": "TouchDesigner 节点网络",
+        "en": "TouchDesigner operator network"
+      }
+    },
+    {
+      "id": "audio-interaction",
+      "title": {
+        "zh": "体验声音交互",
+        "en": "Experience the audio interaction"
+      }
+    },
+    {
+      "id": "development",
+      "title": {
+        "zh": "从模型到视听系统",
+        "en": "From model to audiovisual system"
+      }
+    },
+    {
+      "id": "live-performance",
+      "title": {
+        "zh": "实时效果与动态演示",
+        "en": "Live response and moving image"
+      }
+    }
+  ]
+}
